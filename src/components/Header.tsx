@@ -8,6 +8,7 @@ const navLinks = [
   { label: 'Experience', href: '#experience' },
   { label: 'Skills', href: '#skills' },
   { label: 'Certifications', href: '#certifications' },
+  { label: 'AI Journey', href: '#ai-journey' },
 ];
 
 export default function Header() {
